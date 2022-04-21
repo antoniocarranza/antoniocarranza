@@ -2,4 +2,5 @@
 
 - I’m currently working at Proci, S.A.
 - I’m currently learning Flutter
-- I’m looking to collaborate on Swift Projects
+- I’m looking to collaborate on Swift and Flutter Projects
+- I'm thinking about Devlopment, Development and Development
