@@ -1,5 +1,5 @@
 # Antonio Carranza López
-![GitHub-Mark-32px](https://user-images.githubusercontent.com/9987502/172682838-622aef41-8038-4b74-9217-b8985572f3eb.png) https://github.com/antoniocarranza
+[![GitHub-Mark-24px](https://user-images.githubusercontent.com/9987502/172683392-a33a77a4-405c-403f-9fda-555d1baf2a5a.png)](https://github.com/antoniocarranza)
 
 https://www.linkedin.com/in/antoniocarranza/
 
