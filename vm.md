@@ -62,6 +62,7 @@ Delegado de Ventas (jun. 1997 - ago. 1997)
 
 ## Perfiles en línea
 [![linkedinx14](https://user-images.githubusercontent.com/9987502/172685724-5c9612c4-971d-4007-8bfb-af2f60eb4646.png)](https://www.linkedin.com/in/antoniocarranza/) https://www.linkedin.com/in/antoniocarranza/
+
 [![GitHub-Mark-14px](https://user-images.githubusercontent.com/9987502/172686025-0a1b1879-c610-45b6-a84e-7c20b817700d.png)](https://www.linkedin.com/in/antoniocarranza/) [Github](https://github.com/antoniocarranza)
 
 ## Educación
