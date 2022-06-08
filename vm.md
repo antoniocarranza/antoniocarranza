@@ -1,4 +1,7 @@
 # Antonio Carranza López
+https://github.com/antoniocarranza
+https://www.linkedin.com/in/antoniocarranza/
+
 ## Experiencia Laboral
 ### Proci, S.A.
 Director de T.I.C. (nov. 2005 - actualidad)
