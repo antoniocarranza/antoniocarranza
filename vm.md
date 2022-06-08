@@ -16,11 +16,11 @@ Administrador de Sistemas (nov. 2003 - nov. 2005)
 Desarrollador (nov. 2002 - nov. 2003)
 - Desarrollador del departamento de Aplicaciones Industriales con entornos .NET (VB, C#, ASP.NET) y MS-SQL.
 
-### Desarrollador de aplicaciones para iOS
-Profesional independiente (nov. 2017 - dic. 2017)
+### Profesional independiente
+Desarrollador de aplicaciones para iOS (nov. 2017 - dic. 2017)
 - Desarrollo y publicación de la Aplicación "Hora de Moverse". Para mi uso personal y destinada a realizar pausas durante la jornada laboral con el fin de mejorar la salud general. Tecnologías: Swift, CoreLocation, HealthKit, Notifications, Widgets.
 
-Profesional independiente (oct. 2015 - mar. 2016)
+Desarrollador de aplicaciones para iOS (oct. 2015 - mar. 2016)
 Publiqué mi primera aplicación en Apple Store llamada "Health Import". Apple no proporcionaba, en ese momento, un método para restaurar o transferir información de la aplicación Salud entre diferentes dispositivos, así que lo desarrollé para mi uso personal y posteriormente la publiqué. Tecnologías: Swift, Multithreading (Grand Central Dispatch), CoreData and xml.
 
 ### M.G.P. Investigación y Desarrollo
