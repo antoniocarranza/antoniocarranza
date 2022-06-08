@@ -1,5 +1,6 @@
 # Antonio Carranza López
-https://github.com/antoniocarranza
+![GitHub-Mark-32px](https://user-images.githubusercontent.com/9987502/172682838-622aef41-8038-4b74-9217-b8985572f3eb.png) https://github.com/antoniocarranza
+
 https://www.linkedin.com/in/antoniocarranza/
 
 ## Experiencia Laboral
