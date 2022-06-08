@@ -57,3 +57,11 @@ Delegado de Ventas (jun. 1997 - ago. 1997)
 - Programing with Microsoft Visual Basic.NET (24h)Programing with Microsoft Visual Basic.NET (24h) / Avante · Expedición: feb. 2004
 - Microsoft SQL Server (80 horas) / Avante · Expedición: sept. 1999
 - Visual C++ (80 hours) / ETICOM · Expedición: jul. 1999
+
+## Educación
+### ESIC Business & Marketing School (1995)
+ESIC Business & marketing School es una escuela de negocios que ofrece grados y títulos universitarios, MBAs, posgrados y másters. Formación superior para impulsar tu carrera.
+### Yago SchoolYago School (1987)
+Año de estudios cursado en Dublin, Irlanda
+### Colegio de Fomento Tabladilla (1986)
+Fomento de Centros de Enseñanza es una institución educativa impulsada por un grupo de padres y educadores que promovieron la creación de colegios, en los que se considera esencial la colaboración de las familias.
