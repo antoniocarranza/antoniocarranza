@@ -1,5 +1,4 @@
-# Antonio Carranza López [![GitHub-Mark-24px](https://user-images.githubusercontent.com/9987502/172683392-a33a77a4-405c-403f-9fda-555d1baf2a5a.png)](https://github.com/antoniocarranza)
-[![3692530](https://user-images.githubusercontent.com/9987502/172684676-57512c01-892a-4f3f-bb84-3cf1452a0848.png)](https://www.linkedin.com/in/antoniocarranza/)
+# Antonio Carranza López
 
 ## Experiencia Laboral
 ### Proci, S.A.
@@ -59,6 +58,10 @@ Delegado de Ventas (jun. 1997 - ago. 1997)
 - Programing with Microsoft Visual Basic.NET (24h)Programing with Microsoft Visual Basic.NET (24h) / Avante · Expedición: feb. 2004
 - Microsoft SQL Server (80 horas) / Avante · Expedición: sept. 1999
 - Visual C++ (80 hours) / ETICOM · Expedición: jul. 1999
+
+## Perfiles en línea
+[![GitHub-Mark-24px](https://user-images.githubusercontent.com/9987502/172683392-a33a77a4-405c-403f-9fda-555d1baf2a5a.png)](https://github.com/antoniocarranza) Github
+[![3692530](https://user-images.githubusercontent.com/9987502/172684676-57512c01-892a-4f3f-bb84-3cf1452a0848.png)](https://www.linkedin.com/in/antoniocarranza/) LinkedIn
 
 ## Educación
 ### ESIC Business & Marketing School (1995)
