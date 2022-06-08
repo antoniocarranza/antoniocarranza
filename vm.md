@@ -1,4 +1,5 @@
 # Antonio Carranza López
+[![linkedinx14](https://user-images.githubusercontent.com/9987502/172685724-5c9612c4-971d-4007-8bfb-af2f60eb4646.png)](https://www.linkedin.com/in/antoniocarranza/) LinkedIn | [![GitHub-Mark-14px](https://user-images.githubusercontent.com/9987502/172686025-0a1b1879-c610-45b6-a84e-7c20b817700d.png)](https://www.linkedin.com/in/antoniocarranza/) Github
 
 ## Experiencia Laboral
 ### Proci, S.A.
@@ -60,12 +61,7 @@ Delegado de Ventas (jun. 1997 - ago. 1997)
 - Visual C++ (80 hours) / ETICOM · Expedición: jul. 1999
 
 ## Perfiles en línea
-[![GitHub-Mark-24px](https://user-images.githubusercontent.com/9987502/172683392-a33a77a4-405c-403f-9fda-555d1baf2a5a.png)](https://github.com/antoniocarranza) Github
-
-[![linkedinx16](https://user-images.githubusercontent.com/9987502/172685248-b6be0e87-289c-4ef4-896c-d164836b4fb0.png)](https://www.linkedin.com/in/antoniocarranza/) LinkedIn
-
-
-[![3692530](https://user-images.githubusercontent.com/9987502/172684676-57512c01-892a-4f3f-bb84-3cf1452a0848.png)](https://www.linkedin.com/in/antoniocarranza/) LinkedIn
+[![linkedinx14](https://user-images.githubusercontent.com/9987502/172685724-5c9612c4-971d-4007-8bfb-af2f60eb4646.png)](https://www.linkedin.com/in/antoniocarranza/) LinkedIn | [![GitHub-Mark-14px](https://user-images.githubusercontent.com/9987502/172686025-0a1b1879-c610-45b6-a84e-7c20b817700d.png)](https://www.linkedin.com/in/antoniocarranza/) Github
 
 ## Educación
 ### ESIC Business & Marketing School (1995)
