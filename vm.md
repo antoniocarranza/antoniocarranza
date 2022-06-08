@@ -31,7 +31,7 @@ Programador (may. 2002 - nov. 2002)
 Programador (oct. 1999 - ago. 2000)
 - Programación y Mantenimiento de Aplicativo para cooperativas del sector agrícola. Tecnologías: Visual Basic, Microsoft Access
 
-### Interdata Gest, S.L.Interdata Gest, S.L.
+### Interdata Gest, S.L.
 Técnico IT (jul. 1998 - sept. 1999)
 - InterData Gest, S.L. es una empresa centrada en la subcontratación de técnicos a la multinacional NCR. Principalmente desarrollé mi actividad en el área de mantenimiento y migración de servidores. Tecnologías involucradas: S.O. Novell
 
