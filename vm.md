@@ -1,4 +1,5 @@
-## Antonio Carranza López
+# Antonio Carranza López
+## Experiencia Laboral
 ### Proci, S.A.
 Director de T.I.C. (nov. 2005 - actualidad)
 
@@ -37,3 +38,58 @@ Técnico IT (jul. 1998 - sept. 1999)
 
 ### NRG Group Spain, S.A. (Ricoh)
 Delegado de Ventas (jun. 1997 - ago. 1997)
+
+## Certificados y Diplomas
+
+- Siemens Certified Professional for Industrial Networks / Siemens. Expedición: dic. 2021 · Sin fecha de vencimiento
+- MikroTik MTCSE Certified / MikroTik. Expedición: may. 2021 · Sin fecha de vencimiento. ID de la credencial 1802NA2261
+- CS193p - Developing Apps for iOS. SwiftUI - Paul Hegarty / Stanford Online. Expedición: ago. 2020 · Sin fecha de vencimiento
+- MikroTik MTCNA Certified / MikroTik. Expedición: mar. 2020 · Sin fecha de vencimiento. ID de la credencial 1802NA2261
+- CS193p - Developing Apps for iOS (iTunes U). Swift - Paul Hegarty / Stanford Online. Expedición: ago. 2016 · Sin fecha de vencimiento
+- Swift 1.0 - Miguel Díaz RubioSwift 1.0 - Miguel Díaz Rubio / Udemy. Expedición: dic. 2014 · Sin fecha de vencimiento
+- VSP - SV (Server Virtualization 5.5)VSP - SV (Server Virtualization 5.5) / VMware. Expedición: nov. 2014 · Sin fecha de vencimiento
+
+ Logotipo de VMware
+VTSP 5.5VTSP 5.5
+VMwareVMware
+Expedición: nov. 2014 · Sin fecha de vencimientoExpedición: nov. 2014 · Sin fecha de vencimiento
+
+ Logotipo de VMware
+VSP 5.5VSP 5.5
+VMwareVMware
+Expedición: oct. 2014 · Sin fecha de vencimientoExpedición: oct. 2014 · Sin fecha de vencimiento
+
+ Logotipo de VMware
+VTSP - SV (Server Virtualization 5)VTSP - SV (Server Virtualization 5)
+VMwareVMware
+Expedición: oct. 2014 · Sin fecha de vencimientoExpedición: oct. 2014 · Sin fecha de vencimiento
+
+ Logotipo de Udemy
+Objetive-C - Fernando RodriguezObjetive-C - Fernando Rodriguez
+UdemyUdemy
+Expedición: jun. 2014 · Sin fecha de vencimientoExpedición: jun. 2014 · Sin fecha de vencimiento
+
+ Logotipo de Stanford Online
+Developing Apps for iOS (iTunes U). Objetive-C by Paul HegartyDeveloping Apps for iOS (iTunes U). Objetive-C by Paul Hegarty
+Stanford OnlineStanford Online
+Expedición: ene. 2014 · Sin fecha de vencimientoExpedición: ene. 2014 · Sin fecha de vencimiento
+
+ Logotipo de Microsoft
+Microsoft Bussiness Solutions Navision 4.0 Development (40h)Microsoft Bussiness Solutions Navision 4.0 Development (40h)
+MicrosoftMicrosoft
+Expedición: may. 2005 · Sin fecha de vencimientoExpedición: may. 2005 · Sin fecha de vencimiento
+
+ Logotipo de Avante
+Programing with Microsoft Visual Basic.NET (24h)Programing with Microsoft Visual Basic.NET (24h)
+AvanteAvante
+Expedición: feb. 2004 · Sin fecha de vencimientoExpedición: feb. 2004 · Sin fecha de vencimiento
+
+ Logotipo de Avante
+Microsoft SQL Server (80 horas)Microsoft SQL Server (80 horas)
+AvanteAvante
+Expedición: sept. 1999 · Sin fecha de vencimientoExpedición: sept. 1999 · Sin fecha de vencimiento
+
+ Logotipo de ETICOM, Asociación de Empresarios de Tecnologías de la Información y Comunicación de Andalucía
+Visual C++ (80 hours)Visual C++ (80 hours)
+ETICOM, Asociación de Empresarios de Tecnologías de la Información y Comunicación de AndalucíaETICOM, Asociación de Empresarios de Tecnologías de la Información y Comunicación de Andalucía
+Expedición: jul. 1999 · Sin fecha de vencimiento
