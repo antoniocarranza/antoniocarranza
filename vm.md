@@ -34,3 +34,6 @@ Programador (oct. 1999 - ago. 2000)
 ### Interdata Gest, S.L.Interdata Gest, S.L.
 Técnico IT (jul. 1998 - sept. 1999)
 - InterData Gest, S.L. es una empresa centrada en la subcontratación de técnicos a la multinacional NCR. Principalmente desarrollé mi actividad en el área de mantenimiento y migración de servidores. Tecnologías involucradas: S.O. Novell
+
+### NRG Group Spain, S.A. (Ricoh)
+Delegado de Ventas (jun. 1997 - ago. 1997)
