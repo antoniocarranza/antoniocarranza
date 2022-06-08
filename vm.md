@@ -1,7 +1,5 @@
-# Antonio Carranza López
-[![GitHub-Mark-24px](https://user-images.githubusercontent.com/9987502/172683392-a33a77a4-405c-403f-9fda-555d1baf2a5a.png)](https://github.com/antoniocarranza)
-
-https://www.linkedin.com/in/antoniocarranza/
+# Antonio Carranza López [![GitHub-Mark-24px](https://user-images.githubusercontent.com/9987502/172683392-a33a77a4-405c-403f-9fda-555d1baf2a5a.png)](https://github.com/antoniocarranza)
+[![3692530](https://user-images.githubusercontent.com/9987502/172684676-57512c01-892a-4f3f-bb84-3cf1452a0848.png)](https://www.linkedin.com/in/antoniocarranza/)
 
 ## Experiencia Laboral
 ### Proci, S.A.
