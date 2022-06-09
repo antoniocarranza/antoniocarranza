@@ -1,4 +1,5 @@
-# Antonio Carranza López
+# Antonio Carranza López 
+
 [![linkedinx14](https://user-images.githubusercontent.com/9987502/172685724-5c9612c4-971d-4007-8bfb-af2f60eb4646.png)](https://www.linkedin.com/in/antoniocarranza/) LinkedIn | [![GitHub-Mark-14px](https://user-images.githubusercontent.com/9987502/172686025-0a1b1879-c610-45b6-a84e-7c20b817700d.png)](https://www.linkedin.com/in/antoniocarranza/) Github
 
 ## Experiencia Laboral
@@ -23,8 +24,12 @@ Desarrollador (nov. 2002 - nov. 2003)
 Desarrollador de aplicaciones para iOS (nov. 2017 - dic. 2017)
 - Desarrollo y publicación de la Aplicación "Hora de Moverse". Para mi uso personal y destinada a realizar pausas durante la jornada laboral con el fin de mejorar la salud general. Tecnologías: Swift, CoreLocation, HealthKit, Notifications, Widgets.
 
+    [![GitHub-Mark-14px](https://user-images.githubusercontent.com/9987502/172686025-0a1b1879-c610-45b6-a84e-7c20b817700d.png)](https://github.com/antoniocarranza/TimeToWalkApp) <https://github.com/antoniocarranza/TimeToWalkApp>
+
 Desarrollador de aplicaciones para iOS (oct. 2015 - mar. 2016)
 - Publiqué mi primera aplicación en Apple Store llamada "Health Import". Apple no proporcionaba, en ese momento, un método para restaurar o transferir información de la aplicación Salud entre diferentes dispositivos, así que lo desarrollé para mi uso personal y posteriormente la publiqué. Tecnologías: Swift, Multithreading (Grand Central Dispatch), CoreData and xml.
+
+    [![GitHub-Mark-14px](https://user-images.githubusercontent.com/9987502/172686025-0a1b1879-c610-45b6-a84e-7c20b817700d.png)](https://github.com/antoniocarranza/HealthImportAPP) <https://github.com/antoniocarranza/HealthImportAPP>
 
 ### M.G.P. Investigación y Desarrollo
 Programador (may. 2002 - nov. 2002)
@@ -32,7 +37,7 @@ Programador (may. 2002 - nov. 2002)
 
 ### InfoQuery, S.L.
 Programador (oct. 1999 - ago. 2000)
-- Programación y Mantenimiento de Aplicativo para cooperativas del sector agrícola. Tecnologías: Visual Basic, Microsoft Access
+- Programación y Mantenimiento de Aplicativo para cooperativas del sector agrícola. Tecnologías: Visual Basic, Microsoft Access / VBA
 
 ### Interdata Gest, S.L.
 Técnico IT (jul. 1998 - sept. 1999)
