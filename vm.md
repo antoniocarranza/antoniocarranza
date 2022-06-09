@@ -44,7 +44,7 @@ Delegado de Ventas (jun. 1997 - ago. 1997)
 ## Certificados y Diplomas
 
 - Siemens Certified Professional for Industrial Networks / Siemens · Expedición: dic. 2021
-- MikroTik MTCSE Certified / MikroTik · Expedición: may. 2021. ID de la credencial 1802NA2261
+- MikroTik MTCSE Certified / MikroTik · Expedición: may. 2021. ID de la credencial *1802NA2261
 - CS193p - Developing Apps for iOS. SwiftUI - Paul Hegarty / Stanford Online · Expedición: ago. 2020
 - MikroTik MTCNA Certified / MikroTik · Expedición: mar. 2020. ID de la credencial 1802NA2261
 - CS193p - Developing Apps for iOS (iTunes U). Swift - Paul Hegarty / Stanford Online · Expedición: ago. 2016
@@ -53,10 +53,10 @@ Delegado de Ventas (jun. 1997 - ago. 1997)
 - VTSP 5.5VTSP 5.5 / VMware · Expedición: nov. 2014
 - VSP 5.5VSP 5.5 / VMWare · Expedición: oct. 2014
 - VTSP - SV (Server Virtualization 5)VTSP - SV (Server Virtualization 5) / VMware · Expedición: oct. 2014
-- Objetive-C - Fernando Rodriguez / UdemyUdemy · Expedición: jun. 2014 · Sin fecha de vencimiento
+- Objetive-C - Fernando Rodriguez / UdemyUdemy · Expedición: jun. 2014
 - Developing Apps for iOS (iTunes U). Objetive-C by Paul Hegarty / Stanford Online · Expedición: ene. 2014
 - Microsoft Bussiness Solutions Navision 4.0 Development (40h) / Microsoft · Expedición: may. 2005
-- Programing with Microsoft Visual Basic.NET (24h)Programing with Microsoft Visual Basic.NET (24h) / Avante · Expedición: feb. 2004
+- Programing with Microsoft Visual Basic.NET (24h) / Avante · Expedición: feb. 2004
 - Microsoft SQL Server (80 horas) / Avante · Expedición: sept. 1999
 - Visual C++ (80 hours) / ETICOM · Expedición: jul. 1999
 
@@ -69,7 +69,7 @@ Delegado de Ventas (jun. 1997 - ago. 1997)
 ### ESIC Business & Marketing School (1995)
 > ESIC Business & marketing School es una escuela de negocios que ofrece grados y títulos universitarios, MBAs, posgrados y másters. Formación superior para impulsar tu carrera.
 ### Yago SchoolYago School (1987)
-Año de estudios cursado en Dublin, Irlanda
+Cursado año de estudios en Dublin, Irlanda
 > Yago School Comenzó su singladura en Dublín en el año 1979 con el objetivo de la enseñanza del currículo español en un entorno de habla inglesa, que facilitaba a los alumnos un alto grado de bilingüismo, además de la inmersión en una cultura distinta a la de sus países de origen.
 ### Colegio de Fomento Tabladilla (1986)
 >Fomento de Centros de Enseñanza es una institución educativa impulsada por un grupo de padres y educadores que promovieron la creación de colegios, en los que se considera esencial la colaboración de las familias.
