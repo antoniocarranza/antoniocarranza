@@ -63,12 +63,13 @@ Delegado de Ventas (jun. 1997 - ago. 1997)
 ## Perfiles en línea
 [![linkedinx14](https://user-images.githubusercontent.com/9987502/172685724-5c9612c4-971d-4007-8bfb-af2f60eb4646.png)](https://www.linkedin.com/in/antoniocarranza/) https://www.linkedin.com/in/antoniocarranza/
 
-[![GitHub-Mark-14px](https://user-images.githubusercontent.com/9987502/172686025-0a1b1879-c610-45b6-a84e-7c20b817700d.png)](https://www.linkedin.com/in/antoniocarranza/) [Github](https://github.com/antoniocarranza)
+[![GitHub-Mark-14px](https://user-images.githubusercontent.com/9987502/172686025-0a1b1879-c610-45b6-a84e-7c20b817700d.png)](https://www.linkedin.com/in/antoniocarranza/) https://github.com/antoniocarranza
 
 ## Educación
 ### ESIC Business & Marketing School (1995)
-ESIC Business & marketing School es una escuela de negocios que ofrece grados y títulos universitarios, MBAs, posgrados y másters. Formación superior para impulsar tu carrera.
+> ESIC Business & marketing School es una escuela de negocios que ofrece grados y títulos universitarios, MBAs, posgrados y másters. Formación superior para impulsar tu carrera.
 ### Yago SchoolYago School (1987)
 Año de estudios cursado en Dublin, Irlanda
+> Yago School Comenzó su singladura en Dublín en el año 1979 con el objetivo de la enseñanza del currículo español en un entorno de habla inglesa, que facilitaba a los alumnos un alto grado de bilingüismo, además de la inmersión en una cultura distinta a la de sus países de origen.
 ### Colegio de Fomento Tabladilla (1986)
-Fomento de Centros de Enseñanza es una institución educativa impulsada por un grupo de padres y educadores que promovieron la creación de colegios, en los que se considera esencial la colaboración de las familias.
+>Fomento de Centros de Enseñanza es una institución educativa impulsada por un grupo de padres y educadores que promovieron la creación de colegios, en los que se considera esencial la colaboración de las familias.
