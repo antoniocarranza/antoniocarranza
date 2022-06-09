@@ -61,9 +61,9 @@ Delegado de Ventas (jun. 1997 - ago. 1997)
 - Visual C++ (80 hours) / ETICOM · Expedición: jul. 1999
 
 ## Perfiles en línea
-[![linkedinx14](https://user-images.githubusercontent.com/9987502/172685724-5c9612c4-971d-4007-8bfb-af2f60eb4646.png)](https://www.linkedin.com/in/antoniocarranza/) https://www.linkedin.com/in/antoniocarranza/
+[![linkedinx14](https://user-images.githubusercontent.com/9987502/172685724-5c9612c4-971d-4007-8bfb-af2f60eb4646.png)](https://www.linkedin.com/in/antoniocarranza/) <https://www.linkedin.com/in/antoniocarranza/>
 
-[![GitHub-Mark-14px](https://user-images.githubusercontent.com/9987502/172686025-0a1b1879-c610-45b6-a84e-7c20b817700d.png)](https://www.linkedin.com/in/antoniocarranza/) https://github.com/antoniocarranza
+[![GitHub-Mark-14px](https://user-images.githubusercontent.com/9987502/172686025-0a1b1879-c610-45b6-a84e-7c20b817700d.png)](https://www.linkedin.com/in/antoniocarranza/) <https://github.com/antoniocarranza>
 
 ## Educación
 ### ESIC Business & Marketing School (1995)
