@@ -3,7 +3,7 @@
 - I’m currently active developing with SwiftUI (Swift) and Flutter (Dart)
 - I’m looking to collaborate on Swift or Dart/Flutter Projects
 - I'm thinking about Development, Development and Development
-- you can't sleep, try reading my professional profile
+- Can't sleep, try reading my [professional profile](https://github.com/antoniocarranza/antoniocarranza/blob/543fe615c01454001853749cb5a53b4e18ab3f83/professionalProfile.md)
 
 ## Technologies
 Among others I have actively used the following technologies that were of interest to me at some point
