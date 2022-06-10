@@ -57,8 +57,8 @@ Delegado de Ventas (jun. 1997 - ago. 1997)
 - VSP - SV (Server Virtualization 5.5)VSP - SV (Server Virtualization 5.5) / VMware · Expedición: nov. 2014
 - VTSP 5.5VTSP 5.5 / VMware · Expedición: nov. 2014
 - VSP 5.5VSP 5.5 / VMWare · Expedición: oct. 2014
-- VTSP - SV (Server Virtualization 5)VTSP - SV (Server Virtualization 5) / VMware · Expedición: oct. 2014
-- Objetive-C - Fernando Rodriguez / UdemyUdemy · Expedición: jun. 2014
+- VTSP - SV (Server Virtualization 5) / VMware · Expedición: oct. 2014
+- Objetive-C - Fernando Rodriguez / Udemy · Expedición: jun. 2014
 - Developing Apps for iOS (iTunes U). Objetive-C by Paul Hegarty / Stanford Online · Expedición: ene. 2014
 - Microsoft Bussiness Solutions Navision 4.0 Development (40h) / Microsoft · Expedición: may. 2005
 - Programing with Microsoft Visual Basic.NET (24h) / Avante · Expedición: feb. 2004
