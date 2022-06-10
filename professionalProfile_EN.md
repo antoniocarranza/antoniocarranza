@@ -2,49 +2,48 @@
 
 [![linkedinx14](https://user-images.githubusercontent.com/9987502/172685724-5c9612c4-971d-4007-8bfb-af2f60eb4646.png)](https://www.linkedin.com/in/antoniocarranza/) LinkedIn | [![GitHub-Mark-14px](https://user-images.githubusercontent.com/9987502/172686025-0a1b1879-c610-45b6-a84e-7c20b817700d.png)](https://www.linkedin.com/in/antoniocarranza/) Github
 
-## Experiencia Laboral
+## Professional History
 ### Proci, S.A.
-Director de T.I.C. (nov. 2005 - actualidad)
+I.T. Manager (nov. 2005 - present)
 
-Director de Tecnologías de la Información y la Comunicación. Diseño de soluciones, arquitecturas y redes implementando/integrando distintas tecnologías y/o plataformas.
-- Responsable de la implantación del E.R.P. del Grupo (Certificado en Desarrollo y Financiero NAV 4.0 ref. MS8929A)
-- Responsable de la creación, interconexión y seguridad de las redes de comunicaciones de Grupo
-- Diseño y Desarrollo de soluciones tecnológicas en entornos combinados Microsoft/Open Source
-- Responsable del departamento de IIoT.
-- Especialista en Seguridad para Redes Industriales (Certificado por SIEMENS)
+I.T. Manager. Designing solutions, architectures and networks, implementing/integrating with different technologies and/or platforms.
+- Responsible for the E.R.P. implementation across the Company's group (Certificated in Development and Financial NAV 4.0 ref.MS8429A)
+- Responsible for the creation, interconnection and security of the Group's communications networks
+- Design and Development of technological solutions with combined Microsoft/Open Source environments
+- Manager at the IIoT area.
+- Security Specialist for Industrial Networks (Certified by SIEMENS AG)
 
-Administrador de Sistemas (nov. 2003 - nov. 2005)
-- Entornos de Servidor: Novell 3.0-5.2, Windows NT y Linux (Red-hat, debían), Entornos de redes: Cisco, Linksys, 3com.
-- Entornos de Telefonía: Asterisk PBX. Scripting en general, mantenimiento y desarrollo de soluciones internas y ocasionalmente para clientes.
+System Administrator (nov. 2003 - nov. 2005)
+- System Administrator. Servers environments: Novell 3.0-5.2, Windows NT, Linux (Red-hat, debian), Networks environments: Cisco, Linksys, 3com. Telephony environments: Asterisk PBX. Scripting, Maintenance and development for the internal needs of the company and occasionally for customers.
 
-Desarrollador (nov. 2002 - nov. 2003)
-- Desarrollador del departamento de Aplicaciones Industriales con entornos .NET (VB, C#, ASP.NET) y MS-SQL.
+Developer (nov. 2002 - nov. 2003)
+- Developer at the Industrial Software Development Department. Involved Technologies: .NET (VB, C#, ASP.NET) and MS-SQL
 
-### Profesional independiente
-Desarrollador de aplicaciones para iOS (nov. 2017 - dic. 2017)
-- Desarrollo y publicación de la Aplicación "Hora de Moverse". Para mi uso personal y destinada a realizar pausas durante la jornada laboral con el fin de mejorar la salud general. Tecnologías: Swift, CoreLocation, HealthKit, Notifications, Widgets.
+### freelance worker
+iOS App Developer (nov. 2017 - dic. 2017)
+- Developed and published "Time to Walk" App. Initially for my personal use and intended for taking breaks at work in order to improve general health status. Technologies: Swift, CodeLocation, HealthKit, Notifications and Widgets.
 
     [![GitHub-Mark-14px](https://user-images.githubusercontent.com/9987502/172686025-0a1b1879-c610-45b6-a84e-7c20b817700d.png)](https://github.com/antoniocarranza/TimeToWalkApp) <https://github.com/antoniocarranza/TimeToWalkApp>
 
-Desarrollador de aplicaciones para iOS (oct. 2015 - mar. 2016)
-- Publiqué mi primera aplicación en Apple Store llamada "Health Import". Apple no proporcionaba, en ese momento, un método para restaurar o transferir información de la aplicación Salud entre diferentes dispositivos, así que lo desarrollé para mi uso personal y posteriormente la publiqué. Tecnologías: Swift, Multithreading (Grand Central Dispatch), CoreData and xml.
+iOS App Developer (oct. 2015 - mar. 2016)
+- Published my first App at Apple Store called "Health Import". Apple didn't provide, at that time, a method to restore or transfer Health Data App Info through different devices so I developed it for my personal use and published it. Technologies: Swift, Multithreading (Grand Central Dispatch), CoreData and xml.
 
     [![GitHub-Mark-14px](https://user-images.githubusercontent.com/9987502/172686025-0a1b1879-c610-45b6-a84e-7c20b817700d.png)](https://github.com/antoniocarranza/HealthImportAPP) <https://github.com/antoniocarranza/HealthImportAPP>
 
 ### M.G.P. Investigación y Desarrollo
-Programador (may. 2002 - nov. 2002)
-- Desarrollo de aplicación para la gestión del conocimiento industrial. Tecnologías: Visual Basic 6.0, VB.NET and Crystal Reports
+Developer (may. 2002 - nov. 2002)
+- Development of an application for industrial knowledge management. Technologies: Visual Basic 6.0, VB.NET and Crystal Reports
 
 ### InfoQuery, S.L.
-Programador (oct. 1999 - ago. 2000)
-- Programación y Mantenimiento de Aplicativo para cooperativas del sector agrícola. Tecnologías: Visual Basic, Microsoft Access / VBA
+Developer (oct. 1999 - ago. 2000)
+- Development and Application Maintenance for growers cooperatives in the agricultural sector. Technologies: Visual Basic 6.0, Microsoft Access and Crystal Reports
 
 ### Interdata Gest, S.L.
-Técnico IT (jul. 1998 - sept. 1999)
-- InterData Gest, S.L. es una empresa centrada en la subcontratación de técnicos a la multinacional NCR. Principalmente desarrollé mi actividad en el área de mantenimiento y migración de servidores. Tecnologías involucradas: S.O. Novell
+IT Tecnician (jul. 1998 - sept. 1999)
+- InterData Gest, S.L. is a company focused on subcontracting technicians to NCR Corp. I mainly developed my activity in the area of server maintenance and migration. Technologies: S.O. Novell
 
 ### NRG Group Spain, S.A. (Ricoh)
-Delegado de Ventas (jun. 1997 - ago. 1997)
+Sales representative (jun. 1997 - ago. 1997)
 
 ## Certificados y Diplomas
 
