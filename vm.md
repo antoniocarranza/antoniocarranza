@@ -73,7 +73,7 @@ Delegado de Ventas (jun. 1997 - ago. 1997)
 ## Educación
 ### ESIC Business & Marketing School (1995)
 > ESIC Business & marketing School es una escuela de negocios que ofrece grados y títulos universitarios, MBAs, posgrados y másters. Formación superior para impulsar tu carrera.
-### Yago SchoolYago School (1987)
+### Yago School (1987)
 Cursado año de estudios en Dublin, Irlanda
 > Yago School Comenzó su singladura en Dublín en el año 1979 con el objetivo de la enseñanza del currículo español en un entorno de habla inglesa, que facilitaba a los alumnos un alto grado de bilingüismo, además de la inmersión en una cultura distinta a la de sus países de origen.
 ### Colegio de Fomento Tabladilla (1986)
