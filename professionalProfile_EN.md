@@ -47,22 +47,22 @@ Sales representative (jun. 1997 - ago. 1997)
 
 ## Certificados y Diplomas
 
-- Siemens Certified Professional for Industrial Networks / Siemens · Expedición: dic. 2021
-- MikroTik MTCSE Certified / MikroTik · Expedición: may. 2021. ID de la credencial *1802NA2261
-- CS193p - Developing Apps for iOS. SwiftUI - Paul Hegarty / Stanford Online · Expedición: ago. 2020
-- MikroTik MTCNA Certified / MikroTik · Expedición: mar. 2020. ID de la credencial 1802NA2261
-- CS193p - Developing Apps for iOS (iTunes U). Swift - Paul Hegarty / Stanford Online · Expedición: ago. 2016
-- Swift 1.0 - Miguel Díaz RubioSwift 1.0 - Miguel Díaz Rubio / Udemy · Expedición: dic. 2014
-- VSP - SV (Server Virtualization 5.5)VSP - SV (Server Virtualization 5.5) / VMware · Expedición: nov. 2014
-- VTSP 5.5VTSP 5.5 / VMware · Expedición: nov. 2014
-- VSP 5.5VSP 5.5 / VMWare · Expedición: oct. 2014
-- VTSP - SV (Server Virtualization 5) / VMware · Expedición: oct. 2014
-- Objetive-C - Fernando Rodriguez / Udemy · Expedición: jun. 2014
-- Developing Apps for iOS (iTunes U). Objetive-C by Paul Hegarty / Stanford Online · Expedición: ene. 2014
-- Microsoft Bussiness Solutions Navision 4.0 Development (40h) / Microsoft · Expedición: may. 2005
-- Programing with Microsoft Visual Basic.NET (24h) / Avante · Expedición: feb. 2004
-- Microsoft SQL Server (80 horas) / Avante · Expedición: sept. 1999
-- Visual C++ (80 hours) / ETICOM · Expedición: jul. 1999
+- Siemens Certified Professional for Industrial Networks / Siemens · dic. 2021
+- MikroTik MTCSE Certified / MikroTik · may. 2021. - ID de la credencial 1802NA2261
+- CS193p - Developing Apps for iOS. SwiftUI - Paul Hegarty / Stanford Online · ago. 2020
+- MikroTik MTCNA Certified / MikroTik · mar. 2020. - ID de la credencial 1802NA2261
+- CS193p - Developing Apps for iOS (iTunes U). Swift - Paul Hegarty / Stanford Online · ago. 2016
+- Swift 1.0 - Miguel Díaz RubioSwift 1.0 - Miguel Díaz Rubio / Udemy · dic. 2014
+- VSP - SV (Server Virtualization 5.5)VSP - SV (Server Virtualization 5.5) / VMware · nov. 2014
+- VTSP 5.5VTSP 5.5 / VMware · nov. 2014
+- VSP 5.5VSP 5.5 / VMWare · oct. 2014
+- VTSP - SV (Server Virtualization 5) / VMware · oct. 2014
+- Objetive-C - Fernando Rodriguez / Udemy · jun. 2014
+- Developing Apps for iOS (iTunes U). Objetive-C by Paul Hegarty / Stanford Online · ene. 2014
+- Microsoft Bussiness Solutions Navision 4.0 Development (40h) / Microsoft · may. 2005
+- Programing with Microsoft Visual Basic.NET (24h) / Avante · feb. 2004
+- Microsoft SQL Server (80 horas) / Avante · sept. 1999
+- Visual C++ (80 hours) / ETICOM · jul. 1999
 
 ## Algunas de las Tecnologías con las que he trabajado
 
@@ -98,16 +98,15 @@ Sales representative (jun. 1997 - ago. 1997)
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
-## Perfiles en línea
+## Online Profiles
 [![linkedinx14](https://user-images.githubusercontent.com/9987502/172685724-5c9612c4-971d-4007-8bfb-af2f60eb4646.png)](https://www.linkedin.com/in/antoniocarranza/) <https://www.linkedin.com/in/antoniocarranza/>
 
 [![GitHub-Mark-14px](https://user-images.githubusercontent.com/9987502/172686025-0a1b1879-c610-45b6-a84e-7c20b817700d.png)](https://www.linkedin.com/in/antoniocarranza/) <https://github.com/antoniocarranza>
 
 ## Educación
 ### ESIC Business & Marketing School (1995)
-> ESIC Business & marketing School es una escuela de negocios que ofrece grados y títulos universitarios, MBAs, posgrados y másters. Formación superior para impulsar tu carrera.
+> ESIC Business & Marketing School is a business school that offers undergraduate degrees and degrees, MBAs, postgraduate degrees and master's degrees. Higher education to boost your career.
 ### Yago School (1987)
-Cursado año de estudios en Dublin, Irlanda
-> Yago School Comenzó su singladura en Dublín en el año 1979 con el objetivo de la enseñanza del currículo español en un entorno de habla inglesa, que facilitaba a los alumnos un alto grado de bilingüismo, además de la inmersión en una cultura distinta a la de sus países de origen.
+> One year studying at Dublin, Ireland. Yago School is a pioneering brand in education that has always encompassed tradition and innovation. It started life in Dublin in 1979 with an original and unique approach to education: teaching the Spanish curriculum in an English-speaking environment, in order to provide pupils with a high degree of bilingualism and immersion in a culture different from their home countries.
 ### Colegio de Fomento Tabladilla (1986)
->Fomento de Centros de Enseñanza es una institución educativa impulsada por un grupo de padres y educadores que promovieron la creación de colegios, en los que se considera esencial la colaboración de las familias.
+>Fomento de Centros de Enseñanza is an educational institution founded by a group of parents and educators who promoted the creation of schools, in which the collaboration of families is considered fundamental.
