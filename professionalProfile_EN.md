@@ -19,7 +19,7 @@ System Administrator (nov. 2003 - nov. 2005)
 Developer (nov. 2002 - nov. 2003)
 - Developer at the Industrial Software Development Department. Involved Technologies: .NET (VB, C#, ASP.NET) and MS-SQL
 
-### freelance worker
+### Freelance worker
 iOS App Developer (nov. 2017 - dic. 2017)
 - Developed and published "Time to Walk" App. Initially for my personal use and intended for taking breaks at work in order to improve general health status. Technologies: Swift, CodeLocation, HealthKit, Notifications and Widgets.
 
@@ -45,7 +45,7 @@ IT Tecnician (jul. 1998 - sept. 1999)
 ### NRG Group Spain, S.A. (Ricoh)
 Sales representative (jun. 1997 - ago. 1997)
 
-## Certificados y Diplomas
+## Courses and certificates
 
 - Siemens Certified Professional for Industrial Networks / Siemens · dic. 2021
 - MikroTik MTCSE Certified / MikroTik · may. 2021. - ID de la credencial 1802NA2261
@@ -64,7 +64,7 @@ Sales representative (jun. 1997 - ago. 1997)
 - Microsoft SQL Server (80 horas) / Avante · sept. 1999
 - Visual C++ (80 hours) / ETICOM · jul. 1999
 
-## Algunas de las Tecnologías con las que he trabajado
+## Some applied technologies
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -103,7 +103,7 @@ Sales representative (jun. 1997 - ago. 1997)
 
 [![GitHub-Mark-14px](https://user-images.githubusercontent.com/9987502/172686025-0a1b1879-c610-45b6-a84e-7c20b817700d.png)](https://www.linkedin.com/in/antoniocarranza/) <https://github.com/antoniocarranza>
 
-## Educación
+## Education
 ### ESIC Business & Marketing School (1995)
 > ESIC Business & Marketing School is a business school that offers undergraduate degrees and degrees, MBAs, postgraduate degrees and master's degrees. Higher education to boost your career.
 ### Yago School (1987)
