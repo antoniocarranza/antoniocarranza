@@ -4,7 +4,7 @@
 
 ## Professional History
 ### Proci, S.A.
-I.T. Manager (nov. 2005 - present)
+I.T. Manager (Nov. 2005 - present)
 
 I.T. Manager. Designing solutions, architectures and networks, implementing/integrating with different technologies and/or platforms.
 - Responsible for the E.R.P. implementation across the Company's group (Certificated in Development and Financial NAV 4.0 ref.MS8429A)
@@ -13,57 +13,57 @@ I.T. Manager. Designing solutions, architectures and networks, implementing/inte
 - Manager at the IIoT area.
 - Security Specialist for Industrial Networks (Certified by SIEMENS AG)
 
-System Administrator (nov. 2003 - nov. 2005)
+System Administrator (Nov. 2003 - Nov. 2005)
 - System Administrator. Servers environments: Novell 3.0-5.2, Windows NT, Linux (Red-hat, debian), Networks environments: Cisco, Linksys, 3com. Telephony environments: Asterisk PBX. Scripting, Maintenance and development for the internal needs of the company and occasionally for customers.
 
-Developer (nov. 2002 - nov. 2003)
+Developer (Nov. 2002 - Nov. 2003)
 - Developer at the Industrial Software Development Department. Involved Technologies: .NET (VB, C#, ASP.NET) and MS-SQL
 
 ### Freelance worker
-iOS App Developer (nov. 2017 - dec. 2017)
+iOS App Developer (Nov. 2017 - Dec. 2017)
 - Developed and published "Time to Walk" App. Initially for my personal use and intended for taking breaks at work in order to improve general health status. Technologies: Swift, CodeLocation, HealthKit, Notifications and Widgets.
 
     [![GitHub-Mark-14px](https://user-images.githubusercontent.com/9987502/172686025-0a1b1879-c610-45b6-a84e-7c20b817700d.png)](https://github.com/antoniocarranza/TimeToWalkApp) <https://github.com/antoniocarranza/TimeToWalkApp>
 
-iOS App Developer (oct. 2015 - mar. 2016)
+iOS App Developer (Oct. 2015 - Mar. 2016)
 - Published my first App at Apple Store called "Health Import". Apple didn't provide, at that time, a method to restore or transfer Health Data App Info through different devices so I developed it for my personal use and published it. Technologies: Swift, Multithreading (Grand Central Dispatch), CoreData and xml.
 
     [![GitHub-Mark-14px](https://user-images.githubusercontent.com/9987502/172686025-0a1b1879-c610-45b6-a84e-7c20b817700d.png)](https://github.com/antoniocarranza/HealthImportAPP) <https://github.com/antoniocarranza/HealthImportAPP>
 
 ### M.G.P. Investigación y Desarrollo
-Developer (may. 2002 - nov. 2002)
+Developer (May. 2002 - Nov. 2002)
 - Development of an application for industrial knowledge management. Technologies: Visual Basic 6.0, VB.NET and Crystal Reports
 
 ### InfoQuery, S.L.
-Developer (oct. 1999 - aug. 2000)
+Developer (Oct. 1999 - Aug. 2000)
 - Development and Application Maintenance for growers cooperatives in the agricultural sector. Technologies: Visual Basic 6.0, Microsoft Access and Crystal Reports
 
 ### Interdata Gest, S.L.
-IT Tecnician (jul. 1998 - sept. 1999)
+IT Tecnician (Jul. 1998 - sept. 1999)
 - InterData Gest, S.L. is a company focused on subcontracting technicians to NCR Corp. I mainly developed my activity in the area of server maintenance and migration. Technologies: S.O. Novell
 
 ### NRG Group Spain, S.A. (Ricoh)
-Sales representative (jun. 1997 - aug. 1997)
+Sales representative (Jun. 1997 - Aug. 1997)
 
 ## Courses and certificates
 
-- Siemens Certified Professional for Industrial Networks / Siemens · dec. 2021
-- MikroTik MTCSE Certified / MikroTik · may. 2021. - ID de la credencial 1802NA2261
-- CS193p - Developing Apps for iOS. SwiftUI - Paul Hegarty / Stanford Online · aug. 2020
-- MikroTik MTCNA Certified / MikroTik · mar. 2020. - ID de la credencial 1802NA2261
-- CS193p - Developing Apps for iOS (iTunes U). Swift - Paul Hegarty / Stanford Online · aug. 2016
-- Swift 1.0 - Miguel Díaz RubioSwift 1.0 - Miguel Díaz Rubio / Udemy · dec. 2014
-- VSP - SV (Server Virtualization 5.5)VSP - SV (Server Virtualization 5.5) / VMware · nov. 2014
-- VTSP 5.5VTSP 5.5 / VMware · nov. 2014
-- VSP 5.5VSP 5.5 / VMWare · oct. 2014
-- VTSP - SV (Server Virtualization 5) / VMware · oct. 2014
-- Objetive-C - Fernando Rodriguez / Udemy · jun. 2014
-- Developing Apps for iOS (iTunes U). Objetive-C by Paul Hegarty / Stanford Online · jan. 2014
-- Job Managment / INATED · jan. 2008
-- Microsoft Bussiness Solutions Navision 4.0 Development (40h) / Microsoft · may. 2005
-- Programing with Microsoft Visual Basic.NET (24h) / Avante · feb. 2004
+- Siemens Certified Professional for Industrial Networks / Siemens · Dec. 2021
+- MikroTik MTCSE Certified / MikroTik · May. 2021. - ID de la credencial 1802NA2261
+- CS193p - Developing Apps for iOS. SwiftUI - Paul Hegarty / Stanford Online · Aug. 2020
+- MikroTik MTCNA Certified / MikroTik · Mar. 2020. - ID de la credencial 1802NA2261
+- CS193p - Developing Apps for iOS (iTunes U). Swift - Paul Hegarty / Stanford Online · Aug. 2016
+- Swift 1.0 - Miguel Díaz RubioSwift 1.0 - Miguel Díaz Rubio / Udemy · Dec. 2014
+- VSP - SV (Server Virtualization 5.5)VSP - SV (Server Virtualization 5.5) / VMware · Nov. 2014
+- VTSP 5.5VTSP 5.5 / VMware · Nov. 2014
+- VSP 5.5VSP 5.5 / VMWare · Oct. 2014
+- VTSP - SV (Server Virtualization 5) / VMware · Oct. 2014
+- Objetive-C - Fernando Rodriguez / Udemy · Jun. 2014
+- Developing Apps for iOS (iTunes U). Objetive-C by Paul Hegarty / Stanford Online · Jan. 2014
+- Job Managment / INATED · Jan. 2008
+- Microsoft Bussiness Solutions Navision 4.0 Development (40h) / Microsoft · May. 2005
+- Programing with Microsoft Visual Basic.NET (24h) / Avante · Feb. 2004
 - Microsoft SQL Server (80 horas) / Avante · sept. 1999
-- Visual C++ (80 hours) / ETICOM · jul. 1999
+- Visual C++ (80 hours) / ETICOM · Jul. 1999
 
 ## Some applied technologies
 
