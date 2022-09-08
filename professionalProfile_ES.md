@@ -60,6 +60,7 @@ Delegado de Ventas (jun. 1997 - ago. 1997)
 - VTSP - SV (Server Virtualization 5) / VMware · oct. 2014
 - Objetive-C - Fernando Rodriguez / Udemy · jun. 2014
 - Developing Apps for iOS (iTunes U). Objetive-C by Paul Hegarty / Stanford Online · ene. 2014
+- Gestión de Proyectos / INATED · ene. 2008
 - Microsoft Bussiness Solutions Navision 4.0 Development (40h) / Microsoft · may. 2005
 - Programing with Microsoft Visual Basic.NET (24h) / Avante · feb. 2004
 - Microsoft SQL Server (80 horas) / Avante · sept. 1999

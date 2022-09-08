@@ -20,7 +20,7 @@ Developer (nov. 2002 - nov. 2003)
 - Developer at the Industrial Software Development Department. Involved Technologies: .NET (VB, C#, ASP.NET) and MS-SQL
 
 ### Freelance worker
-iOS App Developer (nov. 2017 - dic. 2017)
+iOS App Developer (nov. 2017 - dec. 2017)
 - Developed and published "Time to Walk" App. Initially for my personal use and intended for taking breaks at work in order to improve general health status. Technologies: Swift, CodeLocation, HealthKit, Notifications and Widgets.
 
     [![GitHub-Mark-14px](https://user-images.githubusercontent.com/9987502/172686025-0a1b1879-c610-45b6-a84e-7c20b817700d.png)](https://github.com/antoniocarranza/TimeToWalkApp) <https://github.com/antoniocarranza/TimeToWalkApp>
@@ -35,7 +35,7 @@ Developer (may. 2002 - nov. 2002)
 - Development of an application for industrial knowledge management. Technologies: Visual Basic 6.0, VB.NET and Crystal Reports
 
 ### InfoQuery, S.L.
-Developer (oct. 1999 - ago. 2000)
+Developer (oct. 1999 - aug. 2000)
 - Development and Application Maintenance for growers cooperatives in the agricultural sector. Technologies: Visual Basic 6.0, Microsoft Access and Crystal Reports
 
 ### Interdata Gest, S.L.
@@ -43,22 +43,23 @@ IT Tecnician (jul. 1998 - sept. 1999)
 - InterData Gest, S.L. is a company focused on subcontracting technicians to NCR Corp. I mainly developed my activity in the area of server maintenance and migration. Technologies: S.O. Novell
 
 ### NRG Group Spain, S.A. (Ricoh)
-Sales representative (jun. 1997 - ago. 1997)
+Sales representative (jun. 1997 - aug. 1997)
 
 ## Courses and certificates
 
-- Siemens Certified Professional for Industrial Networks / Siemens · dic. 2021
+- Siemens Certified Professional for Industrial Networks / Siemens · dec. 2021
 - MikroTik MTCSE Certified / MikroTik · may. 2021. - ID de la credencial 1802NA2261
-- CS193p - Developing Apps for iOS. SwiftUI - Paul Hegarty / Stanford Online · ago. 2020
+- CS193p - Developing Apps for iOS. SwiftUI - Paul Hegarty / Stanford Online · aug. 2020
 - MikroTik MTCNA Certified / MikroTik · mar. 2020. - ID de la credencial 1802NA2261
-- CS193p - Developing Apps for iOS (iTunes U). Swift - Paul Hegarty / Stanford Online · ago. 2016
-- Swift 1.0 - Miguel Díaz RubioSwift 1.0 - Miguel Díaz Rubio / Udemy · dic. 2014
+- CS193p - Developing Apps for iOS (iTunes U). Swift - Paul Hegarty / Stanford Online · aug. 2016
+- Swift 1.0 - Miguel Díaz RubioSwift 1.0 - Miguel Díaz Rubio / Udemy · dec. 2014
 - VSP - SV (Server Virtualization 5.5)VSP - SV (Server Virtualization 5.5) / VMware · nov. 2014
 - VTSP 5.5VTSP 5.5 / VMware · nov. 2014
 - VSP 5.5VSP 5.5 / VMWare · oct. 2014
 - VTSP - SV (Server Virtualization 5) / VMware · oct. 2014
 - Objetive-C - Fernando Rodriguez / Udemy · jun. 2014
-- Developing Apps for iOS (iTunes U). Objetive-C by Paul Hegarty / Stanford Online · ene. 2014
+- Developing Apps for iOS (iTunes U). Objetive-C by Paul Hegarty / Stanford Online · jan. 2014
+- Job Managment / INATED · jan. 2008
 - Microsoft Bussiness Solutions Navision 4.0 Development (40h) / Microsoft · may. 2005
 - Programing with Microsoft Visual Basic.NET (24h) / Avante · feb. 2004
 - Microsoft SQL Server (80 horas) / Avante · sept. 1999
