@@ -1,8 +1,8 @@
-## Hi there, some about me...
-- I’m currently working at Proci, S.A. on a great IIoT solution.
-- I’m currently active developing with SwiftUI (Swift) and Flutter (Dart)
+## Hi there, some about me related to development.
+- I’m currently working at Proci, S.A. on a great solutions.
+- I’m currently active leadign developing teams with SwiftUI (Swift) and Flutter (Dart)
 - I’m looking to collaborate on Swift or Dart/Flutter Projects
-- I'm thinking about Development, Development and Development
+- I'm thinking about Solutions, Managment and Development
 - Can't sleep?, try reading my [Professional Profile](https://github.com/antoniocarranza/antoniocarranza/blob/e7253e1daa5098566a290db50bb9f4d3b2d309fa/professionalProfile_EN.md). doesn´t work? Try the [Spanish version](https://github.com/antoniocarranza/antoniocarranza/blob/206aff132744c5e868a4c4586b9a2b77611c9dcc/professionalProfile_ES.md)
 
 
