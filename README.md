@@ -4,7 +4,7 @@
 - I’m looking to collaborate on Swift or Dart/Flutter Projects
 - I'm thinking about Solutions, Managment and Development
 - Can't sleep?, try reading my [Professional Profile](https://github.com/antoniocarranza/antoniocarranza/blob/e7253e1daa5098566a290db50bb9f4d3b2d309fa/professionalProfile_EN.md). doesn´t work? Try the [Spanish version](https://github.com/antoniocarranza/antoniocarranza/blob/206aff132744c5e868a4c4586b9a2b77611c9dcc/professionalProfile_ES.md)
-
+- Like to contact? [LinkeIn Profile](https://www.linkedin.com/in/antoniocarranza/)
 
 ## Technologies
 Among others I have actively used the following technologies that were of interest to me at some point
