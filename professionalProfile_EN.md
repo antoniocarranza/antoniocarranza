@@ -47,10 +47,12 @@ Sales representative (Jun. 1997 - Aug. 1997)
 
 ## Courses and certificates
 
+- Mikrotik MTCEWE Certified / Mikrotik, credential ID 2305EWE2332 · May. 2023
 - Siemens Certified Professional for Industrial Networks / Siemens · Dec. 2021
-- MikroTik MTCSE Certified / MikroTik · May. 2021. - ID de la credencial 1802NA2261
+- MikroTik MTCSE Certified / MikroTik, credential ID 2105SE6834 · May. 2021
 - CS193p - Developing Apps for iOS. SwiftUI - Paul Hegarty / Stanford Online · Aug. 2020
-- MikroTik MTCNA Certified / MikroTik · Mar. 2020. - ID de la credencial 1802NA2261
+- MikroTik MTCNA Certified / MikroTik, credential ID 2012NA7009 · Mar. 2020
+- MikroTik MTCNA Certified / MikroTik, credential ID 1802NA2261 · Feb. 2018
 - CS193p - Developing Apps for iOS (iTunes U). Swift - Paul Hegarty / Stanford Online · Aug. 2016
 - Swift 1.0 - Miguel Díaz RubioSwift 1.0 - Miguel Díaz Rubio / Udemy · Dec. 2014
 - VSP - SV (Server Virtualization 5.5)VSP - SV (Server Virtualization 5.5) / VMware · Nov. 2014
