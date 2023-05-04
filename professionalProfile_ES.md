@@ -48,7 +48,7 @@ Delegado de Ventas (jun. 1997 - ago. 1997)
 
 ## Certificados y Diplomas
 
-- Mikrotik MTCEWE Certified / Mikrotik, ID de la credential ID 2305EWE2332 · May. 2023
+- Mikrotik MTCEWE Certified / Mikrotik, ID de la credential 2305EWE2332 · May. 2023
 - Siemens Certified Professional for Industrial Networks / Siemens · dic. 2021
 - MikroTik MTCSE Certified / MikroTik, ID de la credencial 2105SE6834 · may. 2021
 - CS193p - Developing Apps for iOS. SwiftUI - Paul Hegarty / Stanford Online · ago. 2020
