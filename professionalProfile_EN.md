@@ -47,12 +47,13 @@ Sales representative (Jun. 1997 - Aug. 1997)
 
 ## Courses and certificates
 
-- Mikrotik MTCEWE Certified / Mikrotik, credential ID 2305EWE2332 · May. 2023
-- Siemens Certified Professional for Industrial Networks / Siemens · Dec. 2021
-- MikroTik MTCSE Certified / MikroTik, credential ID 2105SE6834 · May. 2021
+- Certified Professional for Industrial Networks - Network Management SINEC NMS SCALANCE / Siemens · May. 2023
+- Certified Wireless Engineer - MTCEWE / Mikrotik, credential ID 2305EWE2332 · May. 2023
+- Certified Professional for Industrial Networks - Security in Industrial Networks / Siemens · Dec. 2021
+- Certified Security Engineer - MTCSE / MikroTik, credential ID 2105SE6834 · May. 2021
 - CS193p - Developing Apps for iOS. SwiftUI - Paul Hegarty / Stanford Online · Aug. 2020
-- MikroTik MTCNA Certified / MikroTik, credential ID 2012NA7009 · Mar. 2020
-- MikroTik MTCNA Certified / MikroTik, credential ID 1802NA2261 · Feb. 2018
+- Certified Network Associate - MTCNA / MikroTik, credential ID 2012NA7009 · Mar. 2020
+- Certified Network Associate - MTCNA / MikroTik, credential ID 1802NA2261 · Feb. 2018
 - CS193p - Developing Apps for iOS (iTunes U). Swift - Paul Hegarty / Stanford Online · Aug. 2016
 - Swift 1.0 - Miguel Díaz RubioSwift 1.0 - Miguel Díaz Rubio / Udemy · Dec. 2014
 - VSP - SV (Server Virtualization 5.5)VSP - SV (Server Virtualization 5.5) / VMware · Nov. 2014
@@ -60,7 +61,7 @@ Sales representative (Jun. 1997 - Aug. 1997)
 - VSP 5.5VSP 5.5 / VMWare · Oct. 2014
 - VTSP - SV (Server Virtualization 5) / VMware · Oct. 2014
 - Objetive-C - Fernando Rodriguez / Udemy · Jun. 2014
-- Developing Apps for iOS (iTunes U). Objetive-C by Paul Hegarty / Stanford Online · Jan. 2014
+- Developing Apps for iOS (iTunes U). Objetive-C - Paul Hegarty / Stanford Online · Jan. 2014
 - Job Managment / INATED · Jan. 2008
 - Microsoft Bussiness Solutions Navision 4.0 Development (40h) / Microsoft · May. 2005
 - Programing with Microsoft Visual Basic.NET (24h) / Avante · Feb. 2004
