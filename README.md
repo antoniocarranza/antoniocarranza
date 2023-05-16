@@ -3,7 +3,7 @@
 - I’m currently active leadign developing teams with SwiftUI (Swift) and Flutter (Dart)
 - I’m looking to collaborate on Swift or Dart/Flutter Projects
 - I'm thinking about Solutions, Managment and Development
-- Can't sleep?, try reading my [Professional Profile](https://github.com/antoniocarranza/antoniocarranza/blob/9a325c15e0be09e106157b42c93df6630f3a99ed/professionalProfile_EN.md). doesn´t work? Try the [Spanish version](https://github.com/antoniocarranza/antoniocarranza/blob/9a325c15e0be09e106157b42c93df6630f3a99ed/professionalProfile_ES.md)
+- Can't sleep?, try reading my [Professional Profile](https://github.com/antoniocarranza/antoniocarranza/blob/main/professionalProfile_EN.md). doesn´t work? Try the [Spanish version](https://github.com/antoniocarranza/antoniocarranza/blob/main/professionalProfile_ES.md)
 - Like to contact? [LinkeIn Profile](https://www.linkedin.com/in/antoniocarranza/)
 
 ## Technologies
