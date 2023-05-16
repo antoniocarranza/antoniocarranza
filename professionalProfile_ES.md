@@ -22,7 +22,7 @@ Desarrollador (nov. 2002 - nov. 2003)
 
 ### Profesional independiente
 Desarrollador de aplicaciones para iOS (nov. 2017 - dic. 2017)
-- Desarrollo y publicación de la Aplicación "Hora de Moverse". Para mi uso personal y destinada a realizar pausas durante la jornada laboral con el fin de mejorar la salud general. Tecnologías: Swift, CoreLocation, HealthKit, Notifications, Widgets.
+- Desarrollo y publicación de la Aplicación "Hora de Moverse". Para mi uso personal y destinada a realizar breves pausas durante la jornada laboral con el fin de mejorar la salud general. Tecnologías: Swift, CoreLocation, HealthKit, Notifications, Widgets.
 
     [![GitHub-Mark-14px](https://user-images.githubusercontent.com/9987502/172686025-0a1b1879-c610-45b6-a84e-7c20b817700d.png)](https://github.com/antoniocarranza/TimeToWalkApp) <https://github.com/antoniocarranza/TimeToWalkApp>
 
