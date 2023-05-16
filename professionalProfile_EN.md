@@ -10,7 +10,7 @@ I.T. Manager. Designing solutions, architectures and networks, implementing/inte
 - Responsible for the E.R.P. implementation across the Company's group (Certificated in Development and Financial NAV 4.0 ref.MS8429A)
 - Responsible for the creation, interconnection and security of the Group's communications networks
 - Design and Development of technological solutions with combined Microsoft/Open Source environments
-- Manager at the IIoT area.
+- Manager of IIoT area.
 - Certified Professional for Industrial Networks (Certified by SIEMENS AG)
 
 System Administrator (Nov. 2003 - Nov. 2005)
