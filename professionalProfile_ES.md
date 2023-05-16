@@ -11,7 +11,7 @@ Director de Tecnologías de la Información y la Comunicación. Diseño de soluc
 - Responsable de la creación, interconexión y seguridad de las redes de comunicaciones de Grupo
 - Diseño y Desarrollo de soluciones tecnológicas en entornos combinados Microsoft/Open Source
 - Responsable del departamento de IIoT.
-- Especialista en Seguridad para Redes Industriales (Certificado por SIEMENS)
+- Profesional Certificado en Seguridad para Redes Industriales (Certificado por SIEMENS)
 
 Administrador de Sistemas (nov. 2003 - nov. 2005)
 - Entornos de Servidor: Novell 3.0-5.2, Windows NT y Linux (Red-hat, debían), Entornos de redes: Cisco, Linksys, 3com.
