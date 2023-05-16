@@ -11,7 +11,7 @@ I.T. Manager. Designing solutions, architectures and networks, implementing/inte
 - Responsible for the creation, interconnection and security of the Group's communications networks
 - Design and Development of technological solutions with combined Microsoft/Open Source environments
 - Manager at the IIoT area.
-- Security Specialist for Industrial Networks (Certified by SIEMENS AG)
+- Certified Specialist for Industrial Networks (Certified by SIEMENS AG)
 
 System Administrator (Nov. 2003 - Nov. 2005)
 - System Administrator. Servers environments: Novell 3.0-5.2, Windows NT, Linux (Red-hat, debian), Networks environments: Cisco, Linksys, 3com. Telephony environments: Asterisk PBX. Scripting, Maintenance and development for the internal needs of the company and occasionally for customers.
