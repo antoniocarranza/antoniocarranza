@@ -21,7 +21,7 @@ Developer (Nov. 2002 - Nov. 2003)
 
 ### Freelance worker
 iOS App Developer (Nov. 2017 - Dec. 2017)
-- Developed and published "Time to Walk" App. Initially for my personal use and intended for taking breaks at work in order to improve general health status. Technologies: Swift, CodeLocation, HealthKit, Notifications and Widgets.
+- Developed and published "Time to Walk" App. Initially for my personal use and intended for taking short breaks at work in order to improve general health status. Technologies: Swift, CodeLocation, HealthKit, Notifications and Widgets.
 
     [![GitHub-Mark-14px](https://user-images.githubusercontent.com/9987502/172686025-0a1b1879-c610-45b6-a84e-7c20b817700d.png)](https://github.com/antoniocarranza/TimeToWalkApp) <https://github.com/antoniocarranza/TimeToWalkApp>
 
